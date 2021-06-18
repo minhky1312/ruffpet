@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "354721499361",
+    "project_id": "ruffdogg-e4ba9",
+    "storage_bucket": "ruffdogg-e4ba9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354721499361:android:f867e09ad8d11a1d1c8fa0",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354721499361-ibbapfbkqt4ncsqdfb7khnbml5muvjcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN47UvzK21NrkMdu1DdKXZnBGFFUSdSxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354721499361-ibbapfbkqt4ncsqdfb7khnbml5muvjcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
